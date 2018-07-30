@@ -1,13 +1,14 @@
 # thesis
-Introduction Reactjs - Frontend - Create ReactApp
-Introduction to Type script
-Introduction to SCSS
-Introduction to hosting Netlify
-Introduction GraphQL - Database backend - Future replacemenent of REST - Schemas
-Unit + UI testing
-Javascript doc generator
-Introduction to Redux
-Introduction to main components
-  Links
+
+1. Introduction Reactjs - Frontend - Create ReactApp
+2. Introduction to Type script
+3. Introduction to SCSS
+4. Introduction to hosting Netlify
+5. Introduction GraphQL - Database backend - Future replacemenent of REST - Schemas
+6. Unit + UI testing
+7. Javascript doc generator
+8. Introduction to Redux
+9. Introduction to main components  
+  Links  
   Tags
-Introduction Chrome extension - Need more study
+10. Introduction Chrome extension - Need more study
